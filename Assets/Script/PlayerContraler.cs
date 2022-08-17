@@ -7,7 +7,7 @@ public class PlayerContraler : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        print($"Hallo World!");
     }
 
     // Update is called once per frame
